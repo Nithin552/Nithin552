@@ -8,3 +8,7 @@
 **Versioning and Communication:**
 
 <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&labelColor=F05032" alt="Git" /> <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
+
+**Storage & Database
+
+<img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>
