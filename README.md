@@ -4,3 +4,7 @@
 **Operational Systems:**
 
 <img src="https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white&labelColor=A81D33" alt="Debian" /> <img src="https://img.shields.io/badge/-CentOS-262577?logo=centos&logoColor=white&labelColor=262577" alt="CentOs" /> <img src="https://img.shields.io/badge/-MacOS-999999?logo=apple&logoColor=white&labelColor=999999" alt="MacOS" /> <img src="https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&labelColor=0078D6" alt="Windows" />
+
+**Versioning and Communication:**
+
+<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&labelColor=F05032" alt="Git" /> <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
