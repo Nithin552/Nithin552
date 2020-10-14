@@ -28,7 +28,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/Nithin552?label=Follow&style=social)
 ![Visits](https://badges.pufler.dev/visits/Nithin552/Nithin552?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)
-<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/Nithin552/Nithin552">
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/weekly/Nithin552/Nithin552">
 
 
 
