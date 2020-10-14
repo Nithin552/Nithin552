@@ -25,7 +25,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nithin552&theme=gruvbox&layout=compact&hide=html,css&langs_count=10)](https://github.com/Nithin552?tab=repositories)
 </details>
 
-
+[![Github: Nithin552](https://img.shields.io/badge/-Nithin552-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Nithin552)](https://github.com/Nithin552)
 ![GitHub followers](https://img.shields.io/github/followers/Nithin552?label=Follow&style=social)
 ![Visits](https://badges.pufler.dev/visits/Nithin552/Nithin552?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)
 
