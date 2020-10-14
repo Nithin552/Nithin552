@@ -20,12 +20,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nithin552&theme=gruvbox&layout=compact&hide=html,css&langs_count=10)](https://github.com/Nithin552?tab=repositories)
 </details>
 
-![Profile Views](https://gpvc.arturio.dev/Nithin552
+
  <p align=center>
   <a href="https://github.com/Nithin552?tab=repositories">
     <img src="https://badges.pufler.dev/repos/Nithin552?style=flat-square&color=black&logo=github">
   </a>
 </p>
+
+![Profile Views](https://gpvc.arturio.dev/Nithin552
 
 
 
