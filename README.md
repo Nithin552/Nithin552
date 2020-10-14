@@ -1,6 +1,10 @@
   <div> 
    <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60" align="left"/> 
   </div>
+  
+  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+  <table width="100%">
+  <tr><td width="%100">
 
 
 
