@@ -1,5 +1,6 @@
-
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60" align="center"/> 
+    <div>
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60" align="left"/> 
+    </div>
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing.nithin552.vercel.app/api/spotify-playing" alt="Spotify Playing" width="400" />](https://open.spotify.com/user/rro2jhmryligk7smcxoeharu5)
