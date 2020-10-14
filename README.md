@@ -22,5 +22,3 @@
 
 ![](https://komarev.com/ghpvc/?username=Nithin552)
 
-<a href="https://github.com/Nithin552"><img align="left" width="150" height="150" 
- src="https://github.com/Nithin552/Nithin552/blob/master/Octojustin/Justinoctocat.gif?raw=true" style="width:200px;height:200px;"> </a>
