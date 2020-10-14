@@ -13,3 +13,9 @@
 
 <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>
 
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="NithinCN Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Nithin552&show_icons=true&hide_border=true" />
+
+</details>
