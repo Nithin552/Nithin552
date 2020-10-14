@@ -21,13 +21,7 @@
 </details>
 
 
- <p align=center>
-  <a href="https://github.com/Nithin552?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/Nithin552?style=flat-square&color=black&logo=github">
-  </a>
-</p>
-
-![Profile Views](https://gpvc.arturio.dev/Nithin552
+ 
 
 
 
