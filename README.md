@@ -21,9 +21,7 @@
 </details>
 
  <p align=center>
-  <a href="https://github.com/Nithin552">
-    <img src="https://badges.pufler.dev/visits/Nithin552/Nithin552?style=flat-square&color=black&logo=github">
-  </a>
+  ![Profile Views](https://gpvc.arturio.dev/Nithin552)
   <a href="https://github.com/Nithin552?tab=repositories">
     <img src="https://badges.pufler.dev/repos/Nithin552?style=flat-square&color=black&logo=github">
   </a>
