@@ -20,5 +20,16 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nithin552&theme=gruvbox&layout=compact&hide=html,css&langs_count=10)](https://github.com/Nithin552?tab=repositories)
 </details>
 
-![](https://komarev.com/ghpvc/?username=Nithin552)
+ <p align=center>
+  <a href="https://github.com/Nithin552">
+    <img src="https://badges.pufler.dev/visits/Nithin552/Nithin552?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/Nithin552?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/Nithin552?style=flat-square&color=black&logo=github">
+  </a>
+</p>
+
+
+
+
 
