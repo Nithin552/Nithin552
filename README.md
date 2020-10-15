@@ -22,7 +22,7 @@
 
 **Storage & Database:**
 
-<img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=Google%20Cloud&logoColor=white&labelColor=428574" alt="Google%20Cloud"/>
+<img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=Google%20Cloud&logoColor=white&labelColor=4285F4" alt="Google%20Cloud"/>
 
 <details open>
 <summary>📊 Github Stats</summary>
