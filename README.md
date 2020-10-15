@@ -5,7 +5,7 @@
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing.nithin552.vercel.app/api/spotify-playing" alt="Spotify Playing" width="400" />](https://open.spotify.com/user/rro2jhmryligk7smcxoeharu5)
+[![Not listning to any Songs right now!](https://now-playing.nithin552.vercel.app/api/spotify)][spotify]
 
 <h1 align="center">
     <img src="https://github.com/Nithin552/Nithin552/blob/main/img/synth.gif">
