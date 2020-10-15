@@ -5,7 +5,7 @@
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
-[spotify][![Not listning to any Songs right now!](https://now-playing.nithin552.vercel.app/api/spotify)][spotify]
+[spotify][![Not listning to any Songs right now!](https://now-playing.nithin552.vercel.app/api/spotify)][spotify](https://open.spotify.com/user/rro2jhmryligk7smcxoeharu5)
 
 
 <h1 align="center">
