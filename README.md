@@ -2,6 +2,7 @@
    <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60" align="left"/> 
   </div>
   
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing.nithin552.vercel.app/api/spotify-playing" alt="Spotify Playing" width="400" />](https://open.spotify.com/user/rro2jhmryligk7smcxoeharu5)
