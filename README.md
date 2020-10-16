@@ -7,6 +7,10 @@
 ### Spotify Playing 🎧
 ![Munna Playlist](https://spotify-pl.nithin552.vercel.app/api/spotify)
 
+
+
+
+
 <h1 align="center">
     <img src="https://github.com/Nithin552/Nithin552/blob/main/img/synth.gif">
  </h1>
