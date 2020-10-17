@@ -39,7 +39,7 @@
 [![Github: Nithin552](https://img.shields.io/badge/-Nithin552-000?logo=Github&logoColor=white&link=https://github.com/Nithin552)](https://github.com/Nithin552)
 ![GitHub followers](https://img.shields.io/github/followers/Nithin552?label=Follow&style=social)
 ![Visits](https://badges.pufler.dev/visits/Nithin552/Nithin552?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)
-
+[![Spotify](https://img.shields.io/badge/spotify-Nithin552-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/rro2jhmryligk7smcxoeharu5)
 
 
 
