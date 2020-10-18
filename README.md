@@ -13,6 +13,8 @@
 	<img src="https://img.shields.io/badge/-Lenovo IdeaPad%20S340-%23999999.svg?&style=for-the-badge&logo=lenovo&logoColor=white" title="Lenovo IdeaPad S340" alt="Lenovo IdeaPad S340"/>
         <img src="https://img.shields.io/badge/intel-Core%20i3%208145U-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" title="Intel Core i3-8145U" alt="Intel Core i3-8145U"/>
 	<img src="https://img.shields.io/badge/intel%20UHD%20620%204GB-%23ED1C24.svg?&style=for-the-badge&logo=intel&logoColor=white" title="Intel(R) UHD 620" alt="Intel(R) UHD 620"/>
+	<img src="https://img.shields.io/badge/RAM-8GB-yellow.svg?&style=for-the-badge" title="RAM 8GB" alt="RAM 8GB"/>
+	<img src="https://img.shields.io/badge/SSD-120GB-%23FEAA2D.svg?&style=for-the-badge" title="SSD 120GB" alt="SSD 120GB"/>
 	
 
 
