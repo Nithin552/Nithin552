@@ -1,7 +1,7 @@
 	
-  ### Spotify Playing 🎧
+  ### Spotify Playing <p><img height="16" src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Logoappliandrospotify.png"/>
 
-![Munna Playlist](https://spotify-pl.nithin552.vercel.app/api/spotify) <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+![Munna Playlist](https://spotify-pl.nithin552.vercel.app/api/spotify) <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /></p>
 
 
 
