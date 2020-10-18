@@ -4,9 +4,9 @@
   
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-### Spotify Playing <p><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Logoappliandrospotify.png"/>
-	<span align="center" id="Munna Playlist">
-
+### Spotify Playing 
+<p><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Logoappliandrospotify.png"/>
+	
 
 ![Munna Playlist](https://spotify-pl.nithin552.vercel.app/api/spotify)
 </p>
