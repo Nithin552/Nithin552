@@ -1,6 +1,4 @@
-  <div> 
-   <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60" align="left"/> 
-  </div>
+  <p><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Logoappliandrospotify.png"/>
   
   
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
@@ -8,7 +6,7 @@
   ### Spotify Playing 🎧
 
 ![Munna Playlist](https://spotify-pl.nithin552.vercel.app/api/spotify)
-
+</p>
 
 ## 💻 Workspace Spec:
 <p align="center">
