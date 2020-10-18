@@ -1,12 +1,9 @@
-  <p><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Logoappliandrospotify.png"/>
-  
-  
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 	
   ### Spotify Playing 🎧
 
-![Munna Playlist](https://spotify-pl.nithin552.vercel.app/api/spotify)
-</p>
+![Munna Playlist](https://spotify-pl.nithin552.vercel.app/api/spotify) <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+
 
 ## 💻 Workspace Spec:
 <p align="center">
