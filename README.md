@@ -8,6 +8,11 @@
 ![Munna Playlist](https://spotify-pl.nithin552.vercel.app/api/spotify)
 
 
+## 💻 Workspace Spec:
+<p align="center">
+	<img src="https://img.shields.io/badge/-Lenovo IdeaPad%205567-%23999999.svg?&style=for-the-badge&logo=lenovo&logoColor=white" title="Lenovo IdeaPad S340" alt="Lenovo IdeaPad S340"/>
+
+
 
 
 
