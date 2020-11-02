@@ -17,7 +17,7 @@
 
 
 <h1 align="center">
-    <img src="https://github.com/Nithin552/Nithin552/blob/main/img/synth.gif">
+    <img src="https://github.com/Nithin552/Nithin552/blob/master/header.gif">
  </h1>
 
 
