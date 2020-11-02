@@ -1,4 +1,6 @@
-	
+<h1 align="center">
+   <img src=" https://github.com/Nithin552/Nithin552/blob/main/img/header.gif">
+</h1>	
 
 ![Munna Playlist](https://spotify-pl.nithin552.vercel.app/api/spotify) <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
@@ -14,11 +16,6 @@
 	
 
 
-
-
-<h1 align="center">
-   <img src=" https://github.com/Nithin552/Nithin552/blob/main/img/header.gif">
-</h1>
 
 **Operational Systems:**  <img src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50">
 
