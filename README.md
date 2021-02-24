@@ -33,6 +33,11 @@
 
 <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/-Linux Mint-87CF3E?style=flat&logo=linux-mint&logoColor=white"> <img src="https://img.shields.io/badge/-Windows XP-003399?style=flat&logo=windows-xp&logoColor=white"> <img src="https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white&labelColor=A81D33" alt="Debian" /> <img src="https://img.shields.io/badge/-CentOS-262577?logo=centos&logoColor=white&labelColor=262577" alt="CentOs" /> <img src="https://img.shields.io/badge/-MacOS-999999?logo=apple&logoColor=white&labelColor=999999" alt="MacOS" /> <img src="https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&labelColor=0078D6" alt="Windows" /> <img src="https://img.shields.io/badge/-Linux-A81D33?logo=Linux&logoColor=white&labelColor=A81D33" alt="Linux" /> <img src="https://img.shields.io/badge/-Android-1e2229?logo=Android&logoColor=SpringGreen&labelColor=1e2229" alt="Android Logo" />
 
+**Language and Backend:** <img src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50">
+
+<img src="https://img.shields.io/badge/-Shell%20Script-4EAA25?logo=gnu-bash&logoColor=white&labelColor=4EAA25" alt="Shell Script" /> <img src="https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white&labelColor=5391FE" alt="PowerShell" /> <img src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&labelColor=CC6699" alt="Sass" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&labelColor=F7DF1E" alt="JavaScript" /> <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&labelColor=3776AB" alt="Python" />
+
+
 **Versioning and Communication:**  <img src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50">
 
 <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&labelColor=F05032" alt="Git" /> <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
