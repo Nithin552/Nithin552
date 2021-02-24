@@ -44,7 +44,7 @@
 
 **Storage & Database:**  <img src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50">
 
- <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat&logo=Microsoft Azure&logoColor=white"> <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=Google Cloud&logoColor=white">
+ <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=Microsoft Azure&logoColor=white&labelColor=0089D6" alt="Microsoft Azure" /> <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=Google Cloud&logoColor=white&labelColor=4285F4" alt="Google Cloud" /> <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?logo=amazon-aws&logoColor=white&labelColor=232F3E" alt="Amazon AWS" />
 
 <details open>
 <summary>📊 Github Stats</summary>
