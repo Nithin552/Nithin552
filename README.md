@@ -43,6 +43,9 @@
 
  <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=Microsoft-Azure&logoColor=white&labelColor=0089D6" alt="Microsoft Azure" /> <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=Google-Cloud&logoColor=white&labelColor=4285F4" alt="Google Cloud" /> <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?logo=amazon-aws&logoColor=white&labelColor=232F3E" alt="Amazon AWS" />
 
+<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
+
 <details open>
 <summary>📊 Github Stats</summary>
 
