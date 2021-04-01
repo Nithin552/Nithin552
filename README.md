@@ -62,7 +62,8 @@
 ![Visits](https://badges.pufler.dev/visits/Nithin552/Nithin552?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)
 [![Spotify](https://img.shields.io/badge/spotify-Nithin552-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/rro2jhmryligk7smcxoeharu5)
 
-
+<img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Nithin552&layout=compact" alt="saurav-skl" />
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 
 
 
