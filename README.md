@@ -46,16 +46,15 @@
 <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 
+<div align="center">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nithin552&theme=black-ice&fire=6600AF&currStreakNum=6600AF&ring=6600AF&currStreakLabel=6600AF">
+</div>
+
 <details open>
 <summary>📊 Github Stats</summary>
 
   ![Github stats](https://github-readme-stats.vercel.app/api?username=Nithin552&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nithin552&theme=gruvbox&layout=compact&hide=html,css&langs_count=10)](https://github.com/Nithin552?tab=repositories)
 </details>
-
-<div align="center">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nithin552&theme=black-ice&fire=6600AF&currStreakNum=6600AF&ring=6600AF&currStreakLabel=6600AF">
-</div>
-
 
 [![Github: Nithin552](https://img.shields.io/badge/-Nithin552-000?logo=Github&logoColor=white&link=https://github.com/Nithin552)](https://github.com/Nithin552)
 ![GitHub followers](https://img.shields.io/github/followers/Nithin552?label=Follow&style=social)
