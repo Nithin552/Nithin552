@@ -15,7 +15,7 @@
 ![Munna Playlist](https://spotify-pl.nithin552.vercel.app/api/spotify) <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 
-[<img src="https://readme-spotify-status-readme-spotify-status-nithin552.vercel.app/api/run-spotify-status" alt="I'm listening to" width="500" />](https://github.com/rro2jhmryligk7smcxoeharu5)
+[<img src="https://readme-spotify-status-readme-spotify-status-nithin552.vercel.app/api/run-spotify-status" alt="I'm listening to" width="500" />](https://open.spotify.com/user/rro2jhmryligk7smcxoeharu5)
 
 ## 💻 Workspace Spec:
 <p align="center">
