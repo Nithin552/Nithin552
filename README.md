@@ -17,10 +17,6 @@
 
 [<img src="https://readme-spotify-status-nithin552.vercel.app/api/run-spotify-status" alt="I'm listening to" width="500" />](https://open.spotify.com/user/rro2jhmryligk7smcxoeharu5)
 
-<a href="https://open.spotify.com/user/rro2jhmryligk7smcxoeharu5"/>
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=rro2jhmryligk7smcxoeharu5&count=1" alt="Spotify"/>
-  </a>
-
 ## 💻 Workspace Spec:
 <p align="center">
 	<img src="https://img.shields.io/badge/-Lenovo IdeaPad%20S340-%E2231A.svg?&style=for-the-badge&logo=lenovo&logoColor=white" title="Lenovo IdeaPad S340" alt="Lenovo IdeaPad S340"/>
