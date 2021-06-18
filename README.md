@@ -19,7 +19,7 @@
 
 <p align="center">
 	<a href="https://open.spotify.com/user/rro2jhmryligk7smcxoeharu5"/>
-	<img src="https://spotify-recently-played-readme.vercel.app/api?user=rro2jhmryligk7smcxoeharu5&count=1" alt="Spotify"/>
+	<img src="https://spotify-pl.nithin552.vercel.app/api?user=rro2jhmryligk7smcxoeharu5&count=1" alt="Spotify"/>
 	</a>
 	</p>
 
