@@ -18,8 +18,9 @@
 [<img src="https://readme-spotify-status-nithin552.vercel.app/api/run-spotify-status" alt="I'm listening to" width="500" />](https://open.spotify.com/user/rro2jhmryligk7smcxoeharu5)
 
 
+<a href="https://open.spotify.com/user/rro2jhmryligk7smcxoeharu5">
 [<img src="https://spotify-readme-nithin552.vercel.app/api?spin=true&theme=dark&scan=true&rainbow=true" alt="Current Spotify Song" />
-(https://open.spotify.com/user/rro2jhmryligk7smcxoeharu5)
+</a>
 
 
 ## 💻 Workspace Spec:
