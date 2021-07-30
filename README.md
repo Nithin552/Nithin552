@@ -23,7 +23,7 @@
 
 ![Munna Playlist](https://spotify-recently-played-readme.vercel.app/api?user=rro2jhmryligk7smcxoeharu5&count={4})
 	
-[![](https://spotify-recently-played-readme.vercel.app/api?user=rro2jhmryligk7smcxoeharu5&count=4&width=375)](https://github.com/JeffreyCA/spotify-recently-played-readme)
+[![](https://spotify-recently-played-readme.vercel.app/api?user=rro2jhmryligk7smcxoeharu5&count=4&width=375)](https://github.com/Nithin552/spotify-recently-played-readme)
 	
 
 ## 💻 Workspace Spec:
