@@ -20,7 +20,8 @@
 
 <a href="https://open.spotify.com/user/rro2jhmryligk7smcxoeharu5">
 <img src="https://spotify-readme-nithin552.vercel.app/api?spin=true&theme=dark&rainbow=true" alt="Current Spotify Song">
-	
+
+![Munna Playlist](https://spotify-recently-played-readme.vercel.app/api?user=rro2jhmryligk7smcxoeharu5&count={4})	
 
 ## 💻 Workspace Spec:
 <p align="center">
